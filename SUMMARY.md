@@ -77,7 +77,7 @@
     * [AutoCAD集成](PLM/AutoCAD集成.md)
     * [CAXA集成](PLM/CAXA集成.md)
     * [Cadence集成](PLM/Cadence集成.md)
-    * [Altium Designer集成](PLM/Altium Designer集成.md)
+    * [AltiumDesigner集成](PLM/AltiumDesigner集成.md)
     * [NX集成](PLM/NX集成.md)
     * [Creo集成](PLM/Creo集成.md)
     * [中望CAD集成](PLM/中望CAD集成.md)
